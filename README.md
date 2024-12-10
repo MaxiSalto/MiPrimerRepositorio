@@ -1,3 +1,5 @@
+Hola ! Este es mi primer proyecto 🚀 espero que le sirva y agregue valor. Lo comente un poco en ingles para ser profesional (y entre nos, Tengo que aprender tambien) Pero espero que les guste!
+
 # Business Data Analysis Project  
   
 This project generates random business finance data, stores it in a SQLite database, and visualizes it using a Streamlit dashboard.  
